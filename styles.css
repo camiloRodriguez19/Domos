@@ -1,0 +1,19 @@
+.container {
+  background-color: orange;
+  color: royalblue;
+}
+
+.header {
+  background-color: royalblue;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
